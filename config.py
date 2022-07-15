@@ -10,6 +10,6 @@ DEBUG = True
 
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:pass@localhost:5432/tee-jay'
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:ufaz@localhost:5432/fyyur-app'
 
 SQLALCHEMY_TRACK_MODIFICATIONS = 'False'
